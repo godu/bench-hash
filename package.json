@@ -1,0 +1,16 @@
+{
+  "name": "bench-hash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bench": "^0.3.5",
+    "xxhash": "^0.2.2",
+    "xxhashjs": "^0.1.1"
+  }
+}
